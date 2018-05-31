@@ -3,4 +3,5 @@
 INSERT INTO burgers(burger_name, devoured)
 VALUE ("Smokin' Okie", 0),
       ("Farm Burger", 0),
-      ("BBQ Bacon Charburger", 0);
+      ("BBQ Bacon Charburger", 0),
+      ("Peanut Butter Jalapeno Burger", 0);
