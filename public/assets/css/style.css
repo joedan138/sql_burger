@@ -1,0 +1,86 @@
+
+
+html {
+  padding: 0;
+  margin: 0;
+  /* font:  */
+  background-image: linear-gradient(
+    to right, 
+    red, 
+    white,  
+    blue
+  );
+  color: black;
+  font-family: 'Black Han Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Black Han Sans', sans-serif;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 80px;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  
+}
+
+ul{
+  padding: 0;
+}
+
+.menu-style {
+  background: white;
+  color: black;
+  margin: 2%;
+  padding: 5px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  border-radius: 15px;
+  border: solid red 2px;
+}
+
+.burger-views {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.burger-list-items{
+  list-style: none;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+
+.secondary-header {
+  text-align: center;
+  font-size: 50px;
+}
+
+.header-polygon{
+  position: relative;
+  top: -250px;
+  
+}
+
